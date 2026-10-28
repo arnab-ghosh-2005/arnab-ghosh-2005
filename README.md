@@ -69,27 +69,6 @@ A next-generation event management platform built to improve event discovery and
 
 🔗 [GitHub Repository](https://github.com/prattyan/Eventron)
 
-### 📉 3. Customer Churn Prediction
-
-A machine learning project that analyzes customer data to predict potential churn.
-
-- 🧹 Data preprocessing and feature engineering
-- 📊 Exploratory data analysis
-- 🤖 Classification models for churn prediction
-- ⚖️ Class imbalance handling with SMOTE
-
-**Tech Stack:** Python · Pandas · Scikit-learn · XGBoost · SMOTE
-
-### 📊 4. Adani Stock Analysis Dashboard
-
-A Power BI project focused on financial data analysis and visualization.
-
-- 📈 Stock performance analysis
-- 📊 Interactive visualizations and dashboard insights
-- 🔍 Exploration of trends in historical market data
-
-**Tech Stack:** Power BI · Data Visualization · Financial Analytics
-
 ---
 
 ## ⚙️ Tech Stack
