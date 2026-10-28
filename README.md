@@ -1,48 +1,47 @@
-<h1 align="center">Hi 👋, I'm Arnab</h1>
-<h3 align="center">A passionate ML engineer from India</h3>
+# Hi, I'm Arnab Ghosh 👋
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=arnab-ghosh-2005&label=Profile%20views&color=0e75b6&style=flat" alt="arnab-ghosh-2005" /> </p>
+### Engineering Student | Python | Machine Learning | Data Analytics
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=arnab-ghosh-2005" alt="arnab-ghosh-2005" /></a> </p>
+I'm a Computer Science and Business Systems (CSBS) engineering student interested in building practical software solutions, exploring machine learning, and solving problems through data.
 
-<p align="left"> <a href="https://twitter.com/arnabghosh2005" target="blank"><img src="https://img.shields.io/twitter/follow/arnabghosh2005?logo=twitter&style=for-the-badge" alt="arnabghosh2005" /></a> </p>
+- 🔭 **Currently working on:** EventTron and a Movie Recommendation System
+- 🌱 **Currently learning:** Machine Learning, Data Analytics, DSA, and Generative AI
+- 💻 **Technical interests:** Python, SQL, Machine Learning, and Data Visualization
+- 🎯 **Goal:** Build useful projects and grow as a software and data professional
+- 📫 **Email:** [arnabg873@gmail.com](mailto:arnabg873@gmail.com)
 
-- 🔭 I’m currently working on [Emotion Prediction](https://github.com/arnab-ghosh-2005/emotion-Prediction)
+### 🛠️ Technologies & Tools
 
-- 🌱 I’m currently learning **GenAI and Agentic AI**
+**Languages:** Python, SQL, JavaScript
 
-- 👯 I’m looking to collaborate on [Eventron](https://github.com/prattyan/Eventron)
+**Data Analysis:** Pandas, NumPy, Matplotlib, Seaborn, Power BI, Excel
 
-- 👨‍💻 All of my projects are available at [https://arnabghosh-five.vercel.app/](https://arnabghosh-five.vercel.app/)
+**Machine Learning:** Scikit-learn, XGBoost, NLP, TF-IDF, Cosine Similarity
 
-- 📝 I regularly write articles on [https://x.com/ArnabGhosh2005](https://x.com/ArnabGhosh2005)
+**Tools & Platforms:** Git, GitHub, Jupyter Notebook, Streamlit, MySQL
 
-- 💬 Ask me about **Machine Learning,Deep Learning**
+### 🚀 Featured Projects
 
-- 📫 How to reach me **arnabg873@gmail.com**
+**1. Movie Recommendation System**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/16hoXAUGxo20P_pq6W2rSL_9rcQGM5nX4/view?usp=sharing](https://drive.google.com/file/d/16hoXAUGxo20P_pq6W2rSL_9rcQGM5nX4/view?usp=sharing)
+A content-based recommendation system that uses movie metadata, TF-IDF, and cosine similarity to recommend similar movies.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/arnabghosh2005" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="arnabghosh2005" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/arnabghosh2005" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="arnabghosh2005" height="30" width="40" /></a>
-<a href="https://kaggle.com/arnabghosh05" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="arnabghosh05" height="30" width="40" /></a>
-<a href="https://fb.com/arnab ghosh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="arnab ghosh" height="30" width="40" /></a>
-<a href="https://instagram.com/scg_arnab" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="scg_arnab" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/local_dew_63" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="local_dew_63" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/arnabg873" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="arnabg873" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/arnabg873" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="arnabg873" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/arnab_ghosh2005" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="arnab_ghosh2005" height="30" width="40" /></a>
-<a href="https://www.hackerearth.com/arnabg873/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="arnabg873/" height="30" width="40" /></a>
-<a href="https://discord.gg/arnabg873" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="arnabg873" height="30" width="40" /></a>
-</p>
+**2. EventTron — Event Management Platform**
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://svelte.dev" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Svelte_Logo.svg" alt="svelte" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+A collaborative event management project focused on event discovery, registration, ticketing, and digital event experiences.
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=arnab-ghosh-2005&show_icons=true&locale=en&layout=compact" alt="arnab-ghosh-2005" /></p>
+**3. Customer Churn Prediction**
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=arnab-ghosh-2005&show_icons=true&locale=en" alt="arnab-ghosh-2005" /></p>
+A machine learning project focused on customer churn analysis and predicting customers who may leave a service.
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=arnab-ghosh-2005&" alt="arnab-ghosh-2005" /></p>
+Explore more projects on my [GitHub profile](https://github.com/arnab-ghosh-2005).
+
+### 🔗 Connect With Me
+
+- [LinkedIn](https://www.linkedin.com/in/arnabghosh2005/)
+- [LeetCode](https://leetcode.com/arnab_ghosh2005/)
+- [GitHub](https://github.com/arnab-ghosh-2005)
+
+---
+
+*Learning by building, improving through practice, and solving problems one project at a time.*
