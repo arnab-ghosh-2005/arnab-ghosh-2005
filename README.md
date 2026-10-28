@@ -41,36 +41,6 @@ A collaborative event management platform designed to simplify event discovery, 
 
 ---
 
-## 🚀 Featured Projects
-
-### 🎬 1. Movie Recommendation System
-
-A content-based recommendation engine built using movie metadata and NLP techniques.
-
-- 🎯 Recommends movies based on content similarity
-- 🧠 Uses TF-IDF and cosine similarity for recommendation scoring
-- 🎭 Combines movie information to improve recommendation relevance
-- 🌐 Provides an interactive interface for discovering movies
-
-**Tech Stack:** Python · Pandas · Scikit-learn · NLP · Streamlit
-
-🔗 [GitHub Repository](https://github.com/arnab-ghosh-2005/movie-recommendation-platform)
-
-### 🎟️ 2. EventTron
-
-A next-generation event management platform built to improve event discovery and registration experiences.
-
-- 🔎 Event discovery and personalized recommendations
-- 🎫 Event registration and QR-based ticketing
-- 🔐 Authentication and event management workflows
-- ⚡ Full-stack application with real-time capabilities
-
-**Tech Stack:** React · TypeScript · FastAPI · Python · MongoDB
-
-🔗 [GitHub Repository](https://github.com/prattyan/Eventron)
-
----
-
 ## ⚙️ Tech Stack
 
 ### 👨‍💻 Languages
