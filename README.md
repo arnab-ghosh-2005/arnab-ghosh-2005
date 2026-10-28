@@ -112,7 +112,7 @@ A collaborative event management platform designed to simplify event discovery, 
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=arnab-ghosh-2005&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" alt="GitHub trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=arnab-ghosh-2005&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Profile Trophies" />
 </p>
 
 ---
